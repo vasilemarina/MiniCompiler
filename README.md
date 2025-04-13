@@ -1,4 +1,4 @@
-# MIniCompiler
+# MiniCompiler
 This is a team project in which we implemented a compiler for a mini programming language.
 My personal contributions were:
 – Ignoring whitespace and comments
