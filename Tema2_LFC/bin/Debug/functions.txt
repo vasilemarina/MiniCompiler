@@ -1,0 +1,26 @@
+Functie: int addIntegers(intfirst,intsecond)
+Tip functie: iterativa
+Variabile locale:
+  
+Structuri de control:
+  
+
+Functie: float divideIntegers(intfirst,intsecond)
+Tip functie: iterativa
+Variabile locale:
+  
+Structuri de control:
+  IF, linia 7
+
+Functie: int main()
+Tip functie: main
+Variabile locale:
+  myFirstVariable
+  mySecondVariable
+  myThirdVariable
+  myString
+  myFloat
+Structuri de control:
+  FOR, linia 19
+  IF, linia 24
+

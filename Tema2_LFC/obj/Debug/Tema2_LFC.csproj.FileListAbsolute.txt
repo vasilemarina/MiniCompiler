@@ -1,0 +1,10 @@
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\bin\Debug\Tema2_LFC.exe.config
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\bin\Debug\Tema2_LFC.exe
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\bin\Debug\Tema2_LFC.pdb
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\obj\Debug\Tema2_LFC.csproj.AssemblyReference.cache
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\obj\Debug\Tema2_LFC.csproj.CoreCompileInputs.cache
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\obj\Debug\Tema2_LFC.exe
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\obj\Debug\Tema2_LFC.pdb
+D:\Facultate_An2_Sem1\Tema2_LFC\Tema2_LFC\Tema2_LFC\obj\Debug\Tema2_LFC.csproj.Up2Date
